@@ -9,4 +9,4 @@ jobs:
       
       - run: 
          name: run pip command
-         command: pip install -r requirements/dev.txt
+         command: pip install --upgrade pip
